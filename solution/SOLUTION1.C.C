@@ -32,7 +32,7 @@ date :24/2/2022*/
 	 }
 	   for(i=0;i<5;i++)
 	   {
-	     printf("\n-----------------------------");
+	     printf("\n-----------------------------");//
 	     printf("\n id:%d\n",x.id[i]);
 	     printf("name: %s\n",x.name[i]);
 	     printf("m1: %d\n",x.m1[i]);
